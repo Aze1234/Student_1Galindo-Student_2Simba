@@ -1,5 +1,3 @@
-def greet (name):
-     return "Hello" + name 
-print(greet("Github"))
-
-#hahhahah
+def add (a, b):
+    return a + b
+print   (add(5, 3))
